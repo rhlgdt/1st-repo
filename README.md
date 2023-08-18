@@ -1,2 +1,2 @@
 # 1st-repo
-to learning 
+to learning.
